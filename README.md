@@ -65,5 +65,3 @@ pip install scikit-learn matplotlib pandas numpy
 text
 
 ---
-
-This README covers the core project setup and usage.
